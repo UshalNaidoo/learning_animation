@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/ushal.naidoo/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.9.6/57c2831c870743712b808384187ea856e541878f/gdx-backend-android-1.9.6.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="57c2831c870743712b808384187ea856e541878f">
+        <dex dex="/home/ushal.naidoo/triage/LibGdx/android/build/intermediates/pre-dexed/debug/gdx-backend-android-1.9.6_58106895d66bcfda04ef3e1f0a9d62b540bf95c7.jar" />
+    </item>
+    <item
+        jar="/home/ushal.naidoo/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d/1.9.6/c249ef4060a4fada952f278455c8f7b9cba3c18a/gdx-box2d-1.9.6.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="c249ef4060a4fada952f278455c8f7b9cba3c18a">
+        <dex dex="/home/ushal.naidoo/triage/LibGdx/android/build/intermediates/pre-dexed/debug/gdx-box2d-1.9.6_4b64bbbafb94cc5c63a6ed4b63c7761bfdc7c653.jar" />
+    </item>
+    <item
+        jar="/home/ushal.naidoo/triage/LibGdx/core/build/libs/core-1.0.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="be6ff9bd8a60fcf101899271aac3e86197a485c0">
+        <dex dex="/home/ushal.naidoo/triage/LibGdx/android/build/intermediates/pre-dexed/debug/core-1.0_5dfd104a0cd7d647b1797ece89c7f52d1e6923dd.jar" />
+    </item>
+    <item
+        jar="/home/ushal.naidoo/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.9.6/47d1e9b890e364ec28f128e9bb3b9a12a94c164/gdx-1.9.6.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="047d1e9b890e364ec28f128e9bb3b9a12a94c164">
+        <dex dex="/home/ushal.naidoo/triage/LibGdx/android/build/intermediates/pre-dexed/debug/gdx-1.9.6_e3f449e0069d432ecc5bf77c521d27b8d098539c.jar" />
+    </item>
+
+</items>
