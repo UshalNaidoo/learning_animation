@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/home/ushal.naidoo/triage/learning_animation/android/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/home/ushal.naidoo/triage/learning_animation/android/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
         "merged": "/home/ushal.naidoo/triage/LibGdx/android/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
         "source": "/home/ushal.naidoo/triage/LibGdx/android/res/drawable-hdpi/ic_launcher.png"
     }
